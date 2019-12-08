@@ -1,0 +1,10 @@
+Most common female descriptor is 'mob' and it appears 4 times.
+Second most common female descriptor is 'bolivian' and it appears 3 times.
+Third most common female descriptor is 'liberties' and it appears 3 times.
+Fourth most common female descriptor is 'wrong side' and it appears 3 times.
+Fifth most common female descriptor is 'protection scheme' and it appears 3 times.
+Sixth most common female descriptor is 'wrong places' and it appears 3 times.
+Seventh most common female descriptor is 'european stock' and it appears 3 times.
+Eighth most common female descriptor is 'different time' and it appears 2 times.
+Ninth most common female descriptor is 'safe cracker' and it appears 2 times.
+Tenth most common female descriptor is 'african-american' and it appears 2 times.

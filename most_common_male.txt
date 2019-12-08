@@ -1,0 +1,10 @@
+Most common male descriptor is 'true killer' and it appears 3 times.
+Second most common male descriptor is 'fast cars' and it appears 3 times.
+Third most common male descriptor is 'family 's brutal murder' and it appears 2 times.
+Fourth most common male descriptor is 'master criminal' and it appears 2 times.
+Fifth most common male descriptor is 'mysterious suitcase' and it appears 2 times.
+Sixth most common male descriptor is 'beret' and it appears 2 times.
+Seventh most common male descriptor is 'wrong crowd' and it appears 2 times.
+Eighth most common male descriptor is 'dead american confidante' and it appears 2 times.
+Ninth most common male descriptor is 'stage actor' and it appears 2 times.
+Tenth most common male descriptor is 'republican' and it appears 1 times.
